@@ -1,0 +1,33 @@
+#menu-section{
+  background-color: #de654e;
+}
+#menu-section .logo{
+	padding-top: 25px;
+    padding-bottom: 25px;
+}
+#menu-section .top-nav{
+	padding-top: 30px;
+    padding-bottom: 30px;
+}
+.top-nav  li{
+  display:inline;
+  float:right;
+}
+#landing-section h1,h2,h3,a{
+  text-align: center;
+  color:#fff ;
+  font-family: 'Lato', sans-serif;
+  padding-right: 20px;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+	 .top-nav ul  {
+		
+		text-align: center;
+	}
+	.top-nav li{
+		float:none;
+	}
+}

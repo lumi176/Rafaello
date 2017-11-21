@@ -1,0 +1,24 @@
+#landing-section{
+  background-image: url('../../static/images/landing.jpg');
+  min-height: 200px;
+  background-size: 100% auto;
+}
+
+
+#landing-section h2{
+ padding-top:250px;
+ margin-top:0px;
+}
+.next-scroll{
+  background-image: url(../../static/images/next-scroll.png);
+  background-repeat: no-repeat;
+  display: block;
+  margin:0 auto;
+  width: 84px;
+  height: 84px;
+  border-radius: 100%;
+  border:1px #e6a79c solid;
+  background-position: center center;
+  margin-top:130px;
+  margin-bottom:50px;
+}

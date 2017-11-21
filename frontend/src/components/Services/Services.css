@@ -1,0 +1,49 @@
+
+
+#services{
+	background-color:#db5941;
+	
+}
+
+.round{
+ 
+  background-repeat: no-repeat;
+  display: block;
+  margin:0 auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  border:3px #e6a79c solid;
+  background-position: center center;
+  margin-top:130px;
+  margin-bottom:50px;
+  
+}
+.centerimg{
+	top: 50%;
+    position: relative;
+	margin-top: -45px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.morebtn{
+	border-color: #fff ;
+	background-color: #db5941 ;
+	display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom:140px;
+	margin-top:35px;
+
+	bottom:20px;
+}
+
+.top-nav.col-lg-12.col-sm-12{
+	display:flex;
+	padding-bottom:20px;
+}
+
+.top-nav .col-lg-4 .col-sm-4{
+	padding-bottom:100px;
+}

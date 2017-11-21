@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+
+
+.subtitle{
+	color:white;
+	text-align: center;
+	padding-bottom:106px;
+}
+.title{
+	padding-top:100px;
+}
