@@ -70,12 +70,12 @@ class Contact extends Component {
 							<br/>
 							<input type="text" placeholder="Name" value={this.state.name}  onChange={this.nameChanged}/>
 							<br/>
-							<br/>
+							
 							<input type="text" name="email" placeholder="Email" value={this.state.email}  onChange={this.emailChanged} />
 							<br/>
-							<br/>
+						
 							<textarea name="message" rows="10" cols="30" placeholder="Your message..."  value={this.state.message}   onChange={this.messageBodyChanged}></textarea>
-							<br/><br/>
+							<br/>
 								<div className="submitbtn">
 									<button type="submit" className="btn">Submit</button>
 								</div>

@@ -12,9 +12,9 @@ class Map extends Component {
      
     return (
 
-	<section id="map"> 
-		<MapContainer/>
-		  </section>
+		<section id="map"> 
+			<MapContainer/>
+		</section>
 		
     );
 
